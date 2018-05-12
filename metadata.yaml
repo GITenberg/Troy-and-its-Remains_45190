@@ -1,0 +1,47 @@
+_repo: Troy-and-its-Remains_45190
+_version: 0.1.0
+alternative_title: Trojanische Alterthümer. English
+contributor:
+  translator:
+    agent_name: Schmitz, L. Dora
+    gutenberg_agent_id: '42861'
+    url: http://www.gutenberg.org/2009/agents/42861
+covers:
+- cover_type: archival
+  image_path: 45190-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schliemann, Heinrich
+    aliases:
+    - Schliemann, Johann Ludwig Heinrich
+    - Schliemann, Henry
+    birthdate: 1822
+    deathdate: 1890
+    gutenberg_agent_id: '43142'
+    url: http://www.gutenberg.org/2009/agents/43142
+    wikipedia: http://en.wikipedia.org/wiki/Schliemann
+  editor:
+    agent_name: Smith, Philip
+    birthdate: 1817
+    deathdate: 1885
+    gutenberg_agent_id: '43143'
+    url: http://www.gutenberg.org/2009/agents/43143
+description: ''
+gutenberg_issued: '2014-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45190'
+  lccn: '10009782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- Antiquities'
+- !lcsh 'Troy (Extinct city)'
+- !lcc 'DF'
+- !lcsh 'Greece -- Civilization -- To 146 B.C.'
+- !lcsh 'Excavations (Archaeology) -- Turkey -- Troy (Extinct city)'
+title: "Troy and Its Remains\r\nA Narrative of Researches and Discoveries Made on\
+  \ the Site of Ilium and in the Trojan Plain"
+url: http://www.gutenberg.org/ebooks/45190
